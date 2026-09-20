@@ -79,13 +79,13 @@ The DFA minimization process includes:
 
 ### Sir Josh Example 1
 
-The following screenshot shows the program output for Professor's Example 1.
+The following screenshot shows the program output for Sir Josh Example 1.
 
 ![Sir Joshs Example 1 Output](images/example1.png)
 
 ### Sir Josh Example 2
 
-The following screenshot shows the program output for Professor's Example 2.
+The following screenshot shows the program output for Sir Josh Example 2.
 
 ![Sir Joshs Example 2 Output](images/example2.png)
 
@@ -131,7 +131,3 @@ The following screenshot shows the Python program output, including accepted and
 
 The Python programs for the new DFA minimization examples are located in the `Minimization DFA` folder.
 
-The folder contains:
-
-- `minimization_dfa_example1.py`
-- `minimization_dfa_example2.py`
